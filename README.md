@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow. this file belongs to readme branch"
+This repository is for practicing the GitHub Flow. this file belongs to readme branch final merging"
